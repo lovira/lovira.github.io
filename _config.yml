@@ -1,5 +1,5 @@
 # general configuration
-url: "/web_lovira"
+url: "web_lovira"
 baseurl: ""
 
 # compass configuration
