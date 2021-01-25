@@ -10,7 +10,7 @@ compass:
   author: "L.L. Putri"
   # tagline will appear under the title (optional)
   tagline: "Sic Parvis Magna"
-  \"Greatnes from Small Beginnings"
+  "Greatnes from Small Beginnings"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
