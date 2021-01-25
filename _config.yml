@@ -1,6 +1,6 @@
 # general configuration
-url: "web_lp"
-baseurl: ""
+url: "/web_lovira"
+baseurl: "https://lovira.github.io"
 
 # compass configuration
 compass:
