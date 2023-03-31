@@ -7,10 +7,9 @@ compass:
   # an avatar or logo (optional)
   logo: "/images/profile.png"
   # author will appear under the avatar (optional)
-  author: "L.L. Putri"
+  author: "Lovira's Build Journey"
   # tagline will appear under the title (optional)
-  tagline: "Sic Parvis Magna"
-  tagline2: "Greatness From Small Beginnings"
+  tagline: "ooo yeah"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
