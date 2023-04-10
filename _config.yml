@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Lovira's Build Journey"
   # tagline will appear under the title (optional)
-  tagline: "ooo yeah"
+  tagline: "dreaming in letters and numbers"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
@@ -31,4 +31,4 @@ highlighter: rouge
 permalink: pretty
 
 #google analytics
-google_analytics: 'G-9ZR8SPWBS5'
+#google_analytics: 'G-9ZR8SPWBS5'
